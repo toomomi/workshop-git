@@ -1,2 +1,4 @@
 nome: samanta
 idade: 26
+nome: Eduarda
+idade: 21
