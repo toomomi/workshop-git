@@ -1,2 +1,2 @@
-nome: Eduarda
-idade: 18
+nome: samanta
+idade: 26
